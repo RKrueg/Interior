@@ -1,0 +1,19 @@
+h1 {
+  color: blue;
+}
+.column {
+  width: 500px;
+  float: left;
+}
+img.before {
+  width: 500px;
+  height: 500px;
+}
+img.during {
+  width: 500px;
+  height: 500px;
+}
+img.final {
+  width: 500px;
+  height: 500px;
+}
